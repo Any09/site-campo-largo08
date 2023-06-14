@@ -1,0 +1,24 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: #bfeafc;
+    font-family: 'Bree Serif', serif;
+    }
+    
+    .cabeçalho{
+     margin: 0px;
+     padding: 0px;
+     background-color: rgb(135, 183, 255);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     color: rgb(0, 0, 0);
+
+    }
+
+    .titulo-corpo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    

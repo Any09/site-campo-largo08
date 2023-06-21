@@ -8,11 +8,11 @@ body{
     .cabeçalho{
      margin: 0px;
      padding: 0px;
-     background-color: rgb(135, 183, 255);
+     background-color:dodgerblue;
      display: flex;
      align-items: center;
      justify-content: center;
-     color: rgb(0, 0, 0);
+     color: rgb(189, 43, 43);
 
     }
 
